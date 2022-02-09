@@ -1,0 +1,7 @@
+## Title: Toggle Objectives List
+## Interface: 90105
+## Version: 1.1.4-release
+## Notes: A simple addon that provides a keybind to toggle the in-game objectives panel on/off
+## Author: Valtteri (https://github.com/Certificate)
+
+ToggleObjectivesList.lua

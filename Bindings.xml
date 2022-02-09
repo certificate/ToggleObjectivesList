@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="TOGGLEOBJECTIVESLISTNAME" header="TOGGLEOBJECTIVESLISTHEADER" category="ADDONS">
+		ToggleObjectivesList.toggle()
+	</Binding>
+</Bindings>
