@@ -1,7 +1,7 @@
 ToggleObjectivesList = {}
 
 function ToggleObjectivesList.toggle()
-	ObjectiveTrackerFrame.HeaderMenu.MinimizeButton:Click()
+	ObjectiveTrackerFrame.Header.MinimizeButton:Click()
 end
 
 BINDING_HEADER_TOGGLEOBJECTIVESLISTHEADER = "Toggle Objectives"
